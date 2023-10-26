@@ -4,19 +4,19 @@
     "url": "https://app.dev.databahn.app",
     "icon": "https://icons.duckduckgo.com/ip3/app.dev.databahn.app.ico",
     "slug": "databahn-dev",
-    "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 383,
-    "timeDay": 383,
-    "timeWeek": 383,
-    "timeMonth": 383,
-    "timeYear": 383,
+    "status": "up",
+    "uptime": "72.36%",
+    "uptimeDay": "72.36%",
+    "uptimeWeek": "72.36%",
+    "uptimeMonth": "72.36%",
+    "uptimeYear": "72.36%",
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2023-10-26": 0
+      "2023-10-26": 17
     }
   },
   {
