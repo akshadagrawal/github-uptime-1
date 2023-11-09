@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.dev.databahn.app.ico",
     "slug": "databahn-dev",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.56%",
-    "uptimeYear": "99.56%",
+    "uptimeMonth": "99.57%",
+    "uptimeYear": "99.57%",
     "time": 1990,
     "timeDay": 215,
     "timeWeek": 2800,
@@ -48,7 +48,7 @@
     "url": "https://app.cboe.databahn.fyi",
     "icon": "https://icons.duckduckgo.com/ip3/app.cboe.databahn.fyi.ico",
     "slug": "databahn-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -59,6 +59,8 @@
     "timeWeek": 304,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-09": 0
+    }
   }
 ]
