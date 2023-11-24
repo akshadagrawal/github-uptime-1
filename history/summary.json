@@ -37,18 +37,20 @@
     "url": "https://app.poc.databahn.app",
     "icon": "https://icons.duckduckgo.com/ip3/app.poc.databahn.app.ico",
     "slug": "databahn-poc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 666,
-    "timeDay": 146,
-    "timeWeek": 442,
-    "timeMonth": 666,
-    "timeYear": 666,
-    "dailyMinutesDown": {}
+    "time": 660,
+    "timeDay": 302,
+    "timeWeek": 444,
+    "timeMonth": 660,
+    "timeYear": 660,
+    "dailyMinutesDown": {
+      "2023-11-24": 0
+    }
   },
   {
     "name": "Databahn demo",
