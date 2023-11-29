@@ -1,7 +1,7 @@
 url: https://app.dev.databahn.app
-status: down
-code: 503
-responseTime: 1310
-lastUpdated: 2023-11-29T18:52:00.767Z
+status: up
+code: 200
+responseTime: 86
+lastUpdated: 2023-11-29T18:57:58.115Z
 startTime: 2023-10-26T19:08:02.059Z
 generator: Upptime <https://github.com/upptime/upptime>
