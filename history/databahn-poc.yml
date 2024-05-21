@@ -1,7 +1,7 @@
 url: https://app.poc.databahn.app
-status: up
-code: 200
-responseTime: 223
-lastUpdated: 2024-05-21T14:23:26.259Z
+status: down
+code: 404
+responseTime: 205
+lastUpdated: 2024-05-21T14:30:40.366Z
 startTime: 2023-10-26T19:08:05.459Z
 generator: Upptime <https://github.com/upptime/upptime>
